@@ -7,14 +7,14 @@ description: Every dream needs a team.  # Strongly recommended for SEO & social 
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://ethanqy.github.io/
+url: https://ethanqy.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
   name: Qianyi Shen
-  avatar: qianyishen.jpg
+  # avatar: qianyishen.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: qy.shen@outlook.com
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
