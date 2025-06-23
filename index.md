@@ -37,6 +37,7 @@ layout: page
   - 2022.06-2025.06, Member of [Honors School](https://honorschool.jiangnan.edu.cn/) (Honors School (Selected from the top 5% students at Jiangnan University))
 - 2025.09- , Ph.D. student, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/), Shanghai, China.
   - Supervisor: [Prof. Jie Chen](https://see.tongji.edu.cn/info/1369/10791.htm) (Academician of CAE, IEEE Fellow)
+
 ---
 
 ## Personal Info
