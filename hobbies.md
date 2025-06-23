@@ -16,7 +16,7 @@ Qianyi has many hobbies, although not good at all of them.
   <img src="/images/mercedes-amg.png" style="width: 32%; height: auto;">
 </div>
 
-Qianyi is an true petrol-head and an enthusiastic Formula One fan.
+Qianyi is a true petrol-head and an enthusiastic Formula One fan.
 
 - Favourite racing driver: Sir Lewis Hamilton #44
   - 7xWDC in Formula One (2008, 2014, 2015, 2017, 2018, 2019, 2020)
