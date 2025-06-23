@@ -22,6 +22,7 @@ Qianyi is an ultimate petrol-head and an enthusiastic Formula One fan.
   - One of the GOATs in Formula One, as many WDCs as Michael Schumacher
   - Records for most wins (105), pole positions (104), and podium finishes (202)
 - Favourite Team: [Mercedes-AMG PETRONAS Formula One Team](https://www.mercedesamgf1.com/)
+- Favourite Track: Circuit of Spa-Francorchamps, Stavelot, Belgium
 - Realted activites
   - go-carts
   - sim races
@@ -30,7 +31,7 @@ Qianyi is an ultimate petrol-head and an enthusiastic Formula One fan.
 Qianyi is also fighting with his weight, as all of us do.
 
 ## Taking photos & vlogs
-Qianyi is planning to buy a camera and a dji pocket3.
+Qianyi is planning to buy a camera and a dji pocket3. Future works might be seen in douyin, bilibili or YouTube.
 
 ## My Cat
 
@@ -41,9 +42,4 @@ She is the superstar of our family.
 </div>
 <br>
 
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
 
