@@ -6,48 +6,26 @@ title: Publications
 
 > (†: equal contribution, ~: corresponding author)
 
-## Journal Paper
-
-- Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>[arXiv](https://arxiv.org/abs/2503.23446). Submitted to IEEE Communications Standards Magazine.
-
-## Conference Paper
-
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.
-
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai†**, Yuchen Fang**†**, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.
-
-  <br>
-
-- Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
+## Submitted paper
 
 
-<br>
+## Published paper
+
+## Paper published during undergraduate
+
+- **沈谦逸**, 王子赟, 王艳. [基于 $P$ 范数的线性时滞系统多胞空间滤波器设计[J]](https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgYfL6nt9Jey4H3SLv4s5J3d1wL_BaF7L608QRcagvON-rRtLZrMVN7STbp5BXWBOo7pLGMh2PESE0r41jFOGafmuXSSfMPOjNswGbuJvz6c3td8G9xT5W2L-cF37E3bsWE2KsnZkCdjWoDQBp42R2QZ4ldZXiTgpKWNjk5zSB6fcA==&uniplatform=NZKPT&language=CHS). 控制与决策, 2024, 39(12): 4209-4216.
+- **沈谦逸**, 王子赟, 王艳, 霍雷霆, 纪志成. [基于测量约束定向多胞空间滤波的锂电池故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgYizGtVOqeFUKktxEe3T3PP5cg0NYMLtRquo6fWRMeZCLNCBOtgdhb0acDTzAo1BP8TkRkrKtJ8A-JLpfXZatGDKqzW6VICrl9UKwEw2bHI3vyWn1G0tWcAKtkKjcZYtL0fkEKqIQFjWSEAyzyJXgJMdoVDNQkKBzKXYNWlupm7Rg==&uniplatform=NZKPT&language=CHS): 202411483976.9[P]. 2025-01-24.
+- **沈谦逸**, 王子赟, 王艳, 霍雷霆, 纪志成, 王越. [一种基于多胞空间滤波和P范数的系统状态估计方法](https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgYISArkON3C03icb1aCP76zH5O_mFXy96HclgEhKpbO1hmHf-HsCQSio0gv48-lGIiJGSnqMGxkFt4YeiA3PeoBOuJFaYfX9vco49p2uB_V3eb1UQ2nVJa0aJn-soTnnAQT94u-ql8yC6OV9MEvbNfcgmoJr7XWvk-c9TXC47LxZA==&uniplatform=NZKPT&language=CHS): 202311865199.X[P].2024-07-02.
 
 
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Monitoring System for Effective Garbage Management<br>*Second-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
 
 ---
 
 ## Degree Thesis
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to ACM SIGKDD 2024.
+- 基于多胞空间滤波的时滞系统状态估计及其应用研究, **Qianyi Shen** (Supervisor: [Prof. Ziyun Wang](https://iot.jiangnan.edu.cn/info/1142/3583.htm)). 
+  - Best Bachelor Thesis Award (top 1/200), Jiangnan University, 2025.
+  - Candidate of Best Bachelor Thesis Award, Jiangsu Province.
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China HUADING Tech.<br>
 
-  <br>
 
-<br>

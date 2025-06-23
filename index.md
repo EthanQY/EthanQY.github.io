@@ -15,7 +15,8 @@ layout: page
   - Party Secretary of Harbin Institute of Technology
   - Former Vice Minister of the Ministry of Education, PR China
   - Former President of Tongji University
-
+- Email: [qy.shen@outlook.com](mailto:qy.shen@outlook.com)
+- Tel & WeChat: +86 166 0189 0644
 ---
 
 ## Research Interests
