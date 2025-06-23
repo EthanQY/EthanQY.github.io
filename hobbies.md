@@ -10,11 +10,12 @@ Qianyi has many hobbies, although not good at all of them.
 
 ## Racing Car
 
-<div class="third">
-<img src="/images/w11.jpg">
-<img src="/images/lh44.png">
-<img src="/images/mercedes-amg.png">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+  <img src="/images/w11.jpg" style="width: 32%; height: auto;">
+  <img src="/images/lh44.png" style="width: 32%; height: auto;">
+  <img src="/images/mercedes-amg.png" style="width: 32%; height: auto;">
 </div>
+
 Qianyi is an ultimate petrol-head and an enthusiastic Formula One fan.
 
 - Favourite racing driver: Sir Lewis Hamilton (car 44)
