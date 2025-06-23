@@ -6,7 +6,7 @@ title: 主页中文版
 
 ## 关于我
 
-<img src="/images/qianyishen.jpg" class="floatpic">
+<img src="/images/qianyishen-sq.jpg" class="floatpic">
 
 <br>沈谦逸，江苏盐城人，2003年生。
 
