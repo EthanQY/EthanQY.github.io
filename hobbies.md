@@ -29,6 +29,10 @@ Qianyi is a true petrol-head and an enthusiastic Formula One fan.
   - go-karts
   - sim races
 
+## Investments
+
+Qianyi is very interested in investment and financial management. He primarily invests in the A-share market, U.S. stock ETFs, gold, and bonds. He focuses on risk control to achieve stable appreciation of his assets.
+
 ## Hit the gym
 Qianyi is also working on maintaining a healthy weight, like many people.
 
