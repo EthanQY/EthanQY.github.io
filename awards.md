@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 23th June 2025
+> Last update: 23th June 2025
 
 ## Awards
 - June 2025, "Zhi Shan Special Honors Graduate", Honors School, Jiangnan University (awarded for only 8 graduates out of 4,000 every year)
