@@ -19,4 +19,11 @@ title: Awards
 
 - Dec 2022: **Qianyi Shen**, Mengyuan Xu, Jinhong You, Second Price at the national level, China Undergraduate Mathematical Contest in Modeling
 
+<figure>
+  <img src="/images/mcm-team.jpg" class="floatpic">
+  <figcaption style="text-align: center; font-style: italic; font-size: 0.9em; margin-top: 5px;">
+    Thank you, Mengyuan and Jinhong. Every dream needs a team.
+  </figcaption>
+</figure>
+
 <br>
