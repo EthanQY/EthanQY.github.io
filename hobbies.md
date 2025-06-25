@@ -22,8 +22,9 @@ Qianyi is a true petrol-head and an enthusiastic Formula One fan.
   - 7xWDC in Formula One (2008, 2014, 2015, 2017, 2018, 2019, 2020)
   - One of the GOATs in Formula One, as many WDCs as Michael Schumacher
   - Records for most wins (105), pole positions (104), and podium finishes (202)
-  - He is more than just a racing driver. He is dedicated to charity and runs the [Mission44 Foundation](https://mission44.org/), focusing on racial equality and marginalized communities.
-- Favourite Team: [Mercedes-AMG PETRONAS Formula One Team](https://www.mercedesamgf1.com/)
+  - Race winner for McLaren, Mercedes and Ferrari
+  - He is more than just a racing driver. He is dedicated to charity and runs the [Mission 44 Foundation](https://mission44.org/), focusing on racial equality and marginalized communities.
+- Favourite Team: [Mercedes-AMG PETRONAS Formula One Team](https://www.mercedesamgf1.com/) (Team principal: Toto Wolff)
 - Favourite Track: Circuit of Spa-Francorchamps, Stavelot, Belgium
 - Related activites
   - go-karts
@@ -32,6 +33,7 @@ Qianyi is a true petrol-head and an enthusiastic Formula One fan.
 ## Investments
 
 Qianyi is very interested in investment and financial management. He primarily invests in the A-share market, U.S. stock ETFs, gold, and bonds. He focuses on risk control to achieve stable appreciation of his assets.
+- If you have any idea for making money, Qianyi would be very happy to talk to you.
 
 ## Hit the gym
 Qianyi is also working on maintaining a healthy weight, like many people.
