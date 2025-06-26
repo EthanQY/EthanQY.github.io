@@ -12,10 +12,10 @@ layout: page
 - Supervisor: [Prof. Jie Chen](https://see.tongji.edu.cn/info/1369/10791.htm)
   - Academician of Chinese Academy of Engineering
   - IEEE Fellow
-  - Party Secretary, Harbin Institute of Technology, P.R. China
+  - Party Secretary, Harbin Institute of Technology
   - Former Vice Minister, Ministry of Education, P.R. China
   - Former President of Tongji University
-- Email: [qy.shen@outlook.com](mailto:qy.shen@outlook.com)
+- Email: [qy.shen@outlook.com](mailto:qy.shen@outlook.com), [RichestShen@Gmail.com](mailto:RichestShen@Gmail.com)
 - Tel & WeChat: +86 166 0189 0644
 - ORCID: 0009-0008-0746-3135
 
