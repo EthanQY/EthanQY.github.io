@@ -19,7 +19,7 @@ layout: page
 - Tel & WeChat: +86 166 0189 0644
 - ORCID: 0009-0008-0746-3135
 
-<img src="images/wechat_qr_code.jpg" class="floatpic">
+<img src="/images/wechat_qrcode.jpg" class="floatpic">
 
 ---
 
