@@ -9,7 +9,7 @@ layout: page
 **Qianyi Shen (Ethan, 沈谦逸)**.<br>
 
 - Ph.D. Student, Institute of Intelligent Vehicles, [Tongji University](https://www.tongji.edu.cn/) (IIV-TJ)
-- Supervisor: [Prof. Jie Chen](https://see.tongji.edu.cn/info/1369/10791.htm)
+- Supervisor: [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm)
   - Academician of Chinese Academy of Engineering
   - IEEE Fellow
   - Party Secretary, Harbin Institute of Technology
@@ -39,7 +39,7 @@ layout: page
   - Supervisor: [Prof. Ziyun Wang](https://iot.jiangnan.edu.cn/info/1142/3583.htm), [Prof. Yan Wang](https://iot.jiangnan.edu.cn/info/1141/3534.htm) (Supervisor of Zhishan's innovation project)
   - 2022.06-2025.06, Member of [Honors School](https://honorschool.jiangnan.edu.cn/) (Selected from the top 5% students at Jiangnan University)
 - 2025.09- , Ph.D. student, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/), Shanghai, China.
-  - Supervisor: [Prof. Jie Chen](https://see.tongji.edu.cn/info/1369/10791.htm) (CAE Academician, IEEE Fellow)
+  - Supervisor: [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) (CAE Academician, IEEE Fellow)
 
 ---
 
