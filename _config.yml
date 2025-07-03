@@ -1,7 +1,7 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Qianyi Shen   # Main site title (appears in browser tab & RSS)
+title: 沈谦逸 Qianyi Shen   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Qianyi. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
 description: Every dream needs a team.  # Strongly recommended for SEO & social cards
 
@@ -16,7 +16,7 @@ owner:
   name: Qianyi Shen
   avatar: qianyishen-sq.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: qy.shen@outlook.com
+  email: qyshen@tongji.edu.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
 
@@ -48,6 +48,8 @@ owner:
 links:
   - title: About Me
     url: /
+  - title: 中文
+    url: /cn/
   - title: Publications
     url: /publications/
   - title: Awards
@@ -56,8 +58,7 @@ links:
     url: /hobbies/
   - title: Blogs
     url: /blogs/
-  - title: 中文
-    url: /cn/
+  
 
 
 # --------------------------------------------------

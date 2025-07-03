@@ -20,7 +20,7 @@ Qianyi is a true petrol-head and an enthusiastic Formula One fan.
 
 - Favourite racing driver: Sir Lewis Hamilton #44
   - 7xWDC in Formula One (2008, 2014, 2015, 2017, 2018, 2019, 2020)
-  - One of the GOATs in Formula One, along with Michael Schumacher
+  - One of the GOATs in Formula One, holding a joint-record of 7xWDCs, tied with Michael Schumacher.
   - Records for most wins (105), pole positions (104), and podium finishes (202)
   - Race winner for McLaren, Mercedes and Ferrari
   - He is more than just a racing driver. He is dedicated to charity and runs the [Mission 44 Foundation](https://mission44.org/), focusing on racial equality and marginalized communities.

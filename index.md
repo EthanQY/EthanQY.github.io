@@ -15,11 +15,17 @@ layout: page
   - Party Secretary, Harbin Institute of Technology
   - Former Vice Minister, Ministry of Education, P.R. China
   - Former President of Tongji University
-- Email: [qy.shen@outlook.com](mailto:qy.shen@outlook.com), [RichestShen@Gmail.com](mailto:RichestShen@Gmail.com)
+- Email: [qy.shen@outlook.com](mailto:qy.shen@outlook.com), [qyshen@tongji.edu.cn](mailto:qyshen@tongji.edu.cn)
 - Tel & WeChat: +86 166 0189 0644
 - ORCID: 0009-0008-0746-3135
 
-<img src="/images/wechat_qrcode.jpg" class="floatpic">
+<div style="float: left; width: fit-content; margin-right: 15px;">
+  <img src="/images/mcm-team.jpg" alt="WeChat QR Code" style="width: 200px; height: auto;">
+  <figcaption style="font-style: italic; font-size: 0.9em; text-align: center; margin-top: 5px;">
+    Qianyi's WeChat
+  </figcaption>
+</div>
+
 
 ---
 
