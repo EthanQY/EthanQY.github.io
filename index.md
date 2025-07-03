@@ -20,7 +20,7 @@ layout: page
 - ORCID: 0009-0008-0746-3135
 
 <div style="float: left; width: fit-content; margin-right: 15px;">
-  <img src="/images/mcm-team.jpg" alt="WeChat QR Code" style="width: 200px; height: auto;">
+  <img src="/images/wechat_qrcode.jpg" alt="WeChat QR Code" style="width: 200px; height: auto;">
   <figcaption style="font-style: italic; font-size: 0.9em; text-align: center; margin-top: 5px;">
     Qianyi's WeChat
   </figcaption>
