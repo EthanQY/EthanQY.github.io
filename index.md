@@ -34,7 +34,7 @@ layout: page
 - SLAM && CO-SLAM, especially in off-road scenarios
 - Autonomous Driving
 - High-Performance vehicles
-- to be discovered ...
+- Embody AI
 
 
 ---
