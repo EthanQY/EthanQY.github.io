@@ -37,7 +37,7 @@ layout: page
 ## Biography
 ### Education
 - 2021.09-2025.06, B.Eng., [School of IOT Engineering](https://iot.jiangnan.edu.cn/), [Jiangnan University](https://www.jiangnan.edu.cn/), Wuxi, China.
-  - Supervisor: [Prof. Ziyun Wang](https://iot.jiangnan.edu.cn/info/1142/3583.htm)
+  - Supervisor: [Prof. Ziyun Wang](https://iot.jiangnan.edu.cn/info/1141/3583.htm)
   - 2022.06-2025.06, Member of [Honors School](https://honorschool.jiangnan.edu.cn/) (Selected from the top 5% of students at Jiangnan University), supervised by [Prof. Yan Wang](https://iot.jiangnan.edu.cn/info/1141/3534.htm) 
 - 2025.09- , Ph.D. student, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/), Shanghai, China.
   - Supervisor: [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) (CAE Academician, IEEE Fellow)
