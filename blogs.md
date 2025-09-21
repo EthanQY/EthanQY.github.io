@@ -15,6 +15,10 @@ title: Blogs
 3. [Using LaTeX to Write an arXiv Paper](https://zhuanlan.zhihu.com/p/717427895)
 4. [Using LaTeX to Write an IEEE Trans Paper](https://zhuanlan.zhihu.com/p/717584469)
 
+## Coding tips
+
+1. [Add auto comments on VS Code](https://zhuanlan.zhihu.com/p/1953180465205876132)
+
 ## Workflow
 ### Coding on Windows
 1. [Build a Virtual Ubuntu Machine on Windows](https://zhuanlan.zhihu.com/p/717697008)
