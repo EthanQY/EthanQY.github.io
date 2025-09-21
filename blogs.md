@@ -20,6 +20,7 @@ title: Blogs
 1. [Build a Virtual Ubuntu Machine on Windows](https://zhuanlan.zhihu.com/p/717697008)
 2. [Build an Anaconda based Python Environment on Windows & VS Code Configuration](https://zhuanlan.zhihu.com/p/717889633)
 3. [Using GIT to Sync Your Project (basic version) on Windows](https://zhuanlan.zhihu.com/p/718282277)
+
 ### Coding on Ubuntu Servers
 
 ### Coding on macOS
