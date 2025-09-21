@@ -18,7 +18,8 @@ owner:
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: qyshen@tongji.edu.cn
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-
+  # cv: /file/Resume.pdf
+  cv: /images/wechat_qrcode.jpg
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
