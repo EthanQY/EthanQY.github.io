@@ -9,11 +9,11 @@ title: Blogs
 > Last Modified: 21st Sept, 2025
 
 ## Toolchain
-### How to use $\LaTeX$
-1. [How to Compose a $\LaTeX$ document](https://zhuanlan.zhihu.com/p/717048336)
+### How to use LaTeX
+1. [How to Compose a LaTeX document](https://zhuanlan.zhihu.com/p/717048336)
 2. [How to use Beamer](https://zhuanlan.zhihu.com/p/717286577)
-3. [Using $\LaTeX$ to Write an arXiv Paper](https://zhuanlan.zhihu.com/p/717427895)
-4. [Using $\LaTeX$ to Write an IEEE Trans Paper](https://zhuanlan.zhihu.com/p/717584469)
+3. [Using LaTeX to Write an arXiv Paper](https://zhuanlan.zhihu.com/p/717427895)
+4. [Using LaTeX to Write an IEEE Trans Paper](https://zhuanlan.zhihu.com/p/717584469)
 
 ## Workflow
 ### Coding on Windows
@@ -27,8 +27,10 @@ title: Blogs
 ## Notes
 ### State Estimation
 > This is a conclusion of my undergraduate research project. This subsection will not be updating any more unless mistakes are found.
+
 1. [Brief Introduction to Kalman Filter & Matlab Sim](https://zhuanlan.zhihu.com/p/721667468)
 2. [Brief Introduction to Set-membership Estimation Theories]()
+   
 ### SLAM
 
 
