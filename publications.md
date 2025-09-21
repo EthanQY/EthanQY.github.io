@@ -23,9 +23,9 @@ Ph.D. works coming soon.
 
 ## Degree Thesis
 
-- Undergraduate: 基于多胞空间滤波的时滞系统状态估计及其应用研究, **Qianyi Shen** (Supervisor: [Prof. Ziyun Wang](https://iot.jiangnan.edu.cn/info/1142/3583.htm)). 
+- Undergraduate: 基于多胞空间滤波的时滞系统状态估计及其应用研究, **Qianyi Shen** (Supervisor: [Prof. Ziyun Wang](https://iot.jiangnan.edu.cn/info/1141/3583.htm)). 
   - Best Bachelor Thesis Award (top 1/200), Jiangnan University, 2025.
-  - Top 1 candidate of Best Bachelor Thesis Award, Jiangsu Province (result will be determined in Aug, 2025).
+  - Nominated as top 1 candidate of Best Bachelor Thesis Award, Jiangsu Province (result will be determined in Oct, 2025).
 
 
 

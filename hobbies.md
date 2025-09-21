@@ -8,7 +8,7 @@ title: Hobbies
 
 Qianyi has many hobbies, although he does not claim to be an expert in all of them.
 
-## Racing Car
+## Motorsport
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
   <img src="/images/w11.jpg" style="width: 32%; height: auto;">
@@ -20,7 +20,7 @@ Qianyi is a petrol-head and an enthusiastic Formula One fan.
 
 - Favourite racing driver: Sir Lewis Hamilton MBE #44
   - 7xWDC in Formula One (2008, 2014, 2015, 2017, 2018, 2019, 2020)
-  - GOAT of Formula One, holding a joint-record of 7xWDCs with Michael Schumacher.
+  - GOAT of Formula One, holding a joint record of 7 times World Drivers' Championships with Michael Schumacher
   - Records for most wins, pole positions, and podium finishes in Formula One history
   <!-- - Winner for McLaren, Mercedes and Ferrari -->
   - He is more than just a racing driver. He is dedicated to charity and runs the [Mission 44 Foundation](https://mission44.org/), focusing on racial equality and marginalized communities.
