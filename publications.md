@@ -5,13 +5,13 @@ title: Publications
 
 ---
 
-## Submitted paper
+## Submitted papers
 Ph.D. works coming soon.
 
-## Published paper
+## Published papers
 Ph.D. works coming soon.
 
-## Paper published during undergraduate
+## Papers published during undergraduate
 
 - **沈谦逸**, 王子赟, 王艳. [基于 P 范数的线性时滞系统多胞空间滤波器设计[J]](https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgYfL6nt9Jey4H3SLv4s5J3d1wL_BaF7L608QRcagvON-rRtLZrMVN7STbp5BXWBOo7pLGMh2PESE0r41jFOGafmuXSSfMPOjNswGbuJvz6c3td8G9xT5W2L-cF37E3bsWE2KsnZkCdjWoDQBp42R2QZ4ldZXiTgpKWNjk5zSB6fcA==&uniplatform=NZKPT&language=CHS). 控制与决策, 2024, 39(12): 4209-4216.
 - **沈谦逸**, 王子赟, 王艳, 霍雷霆, 纪志成. [基于测量约束定向多胞空间滤波的锂电池故障诊断方法](https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgYizGtVOqeFUKktxEe3T3PP5cg0NYMLtRquo6fWRMeZCLNCBOtgdhb0acDTzAo1BP8TkRkrKtJ8A-JLpfXZatGDKqzW6VICrl9UKwEw2bHI3vyWn1G0tWcAKtkKjcZYtL0fkEKqIQFjWSEAyzyJXgJMdoVDNQkKBzKXYNWlupm7Rg==&uniplatform=NZKPT&language=CHS): 202411483976.9[P]. 2025-01-24.

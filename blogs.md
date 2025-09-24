@@ -4,9 +4,9 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-> For the readers' convenience, all the blogs below are published at my Zhihu page.
+> For readers' convenience, all the blogs below are published on my Zhihu page.
 > 
-> Last Modified: 21st Sept, 2025
+> Last modified: 21st Sept, 2025
 
 ## Toolchain
 ### How to use LaTeX
@@ -22,7 +22,7 @@ title: Blogs
 ## Workflow
 ### Coding on Windows
 1. [Build a Virtual Ubuntu Machine on Windows](https://zhuanlan.zhihu.com/p/717697008)
-2. [Build an Anaconda based Python Environment on Windows & VS Code Configuration](https://zhuanlan.zhihu.com/p/717889633)
+2. [Build an Anaconda-based Python Environment on Windows & VS Code Configuration](https://zhuanlan.zhihu.com/p/717889633)
 3. [Using GIT to Sync Your Project (basic version) on Windows](https://zhuanlan.zhihu.com/p/718282277)
 
 ### Coding on Ubuntu Servers
@@ -31,7 +31,7 @@ title: Blogs
 
 ## Notes
 ### State Estimation
-> This is a conclusion of my undergraduate research project. This subsection will not be updating any more unless mistakes are found.
+> This subsection summarizes my undergraduate research project and will only be updated if mistakes are found.
 
 1. [Brief Introduction to Kalman Filter & Matlab Sim](https://zhuanlan.zhihu.com/p/721667468)
 2. [Brief Introduction to Set-membership Estimation Theories]()

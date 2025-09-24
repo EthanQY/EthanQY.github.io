@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-Qianyi has many hobbies, although he does not claim to be an expert in all of them.
+Qianyi enjoys many hobbies, even if he doesn’t claim to be an expert in all of them. They ultimately fuel his research.
 
 ## Motorsport
 
@@ -16,7 +16,7 @@ Qianyi has many hobbies, although he does not claim to be an expert in all of th
   <img src="/images/mercedes-amg.png" style="width: 32%; height: auto;">
 </div>
 
-Qianyi is a petrol-head and an enthusiastic Formula One fan.
+Qianyi is a petrolhead and an enthusiastic Formula One fan.
 
 - Favourite racing driver: Sir Lewis Hamilton MBE #44
   - 7xWDC in Formula One (2008, 2014, 2015, 2017, 2018, 2019, 2020)
@@ -25,7 +25,7 @@ Qianyi is a petrol-head and an enthusiastic Formula One fan.
   <!-- - Winner for McLaren, Mercedes and Ferrari -->
   - He is more than just a racing driver. He is dedicated to charity and runs the [Mission 44 Foundation](https://mission44.org/), focusing on racial equality and marginalized communities.
 - Favourite Team: [Mercedes-AMG PETRONAS Formula One Team](https://www.mercedesamgf1.com/) (Team principal: Toto Wolff)
-- Favourite Track: Circuit of Spa-Francorchamps, Stavelot, Belgium
+- Favourite Track: Circuit de Spa-Francorchamps, Stavelot, Belgium
 - Related activities
   - Go-Karting
   - Sim Racing
@@ -38,8 +38,8 @@ Qianyi is very interested in investment and financial management. He primarily i
 ## Hitting the gym
 Qianyi is also working on maintaining a healthy weight, like many people.
 
-## Taking photos & vlogs
-Qianyi is planning to buy a camera and a dji pocket3. Future works might be seen in douyin, bilibili or YouTube.
+<!-- ## Taking photos & vlogs
+Qianyi is planning to buy a camera and a dji pocket3. Future works might be seen in douyin, bilibili or YouTube. -->
 
 ## My Cat
 
