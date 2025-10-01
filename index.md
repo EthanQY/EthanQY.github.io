@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="qianyishen.jpg" class="floatpic">
+<img src="qianyishen-sq.jpg" class="floatpic">
 
 **Qianyi Shen (Ethan, 沈谦逸)**.<br>
 
