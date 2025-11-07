@@ -22,7 +22,7 @@ title: Awards
 <div style="text-align: center; width: 100%;">
   <img src="/images/mcm-team.jpg" style="display: inline-block; width: 80%; max-width: 600px; height: auto;">
   <figcaption style="font-style: italic; font-size: 0.9em; margin-top: 8px; display: block; text-align: center;">
-    Thank you, Mengyuan (mid) and Jinhong (right). Every dream needs a team.
+    Thank you, Mengyuan (mid) and Jinhong (right). Every dream needs a team. Really appreciate your support and cooperation.
   </figcaption>
 </div>
 
