@@ -30,7 +30,7 @@ Qianyi is a petrolhead and an enthusiastic Formula One fan.
   - Sim Racing (F1 25, iRacing, Assetto Corsa)
 
 > He is fast on the track, but cautious on the road, maintaining a clean driving record over the past five years.
-> 
+
 > [Message from Dec 2025]: Big congrats to Lando Norris for his first World Drivers' Championship in 2025!
 
 ## Other Sports
