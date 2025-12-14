@@ -8,21 +8,43 @@ title: 主页中文版
 
 <img src="/images/qianyishen-sq.jpg" class="floatpic">
 
-<br>沈谦逸，出生于江苏省大丰市(现江苏省盐城市大丰区)，2003年生。
+**沈谦逸 (Qianyi Shen, Ethan)**.<br>
 
-<br>目前在同济大学电子与信息工程学院攻读博士学位，师从中国工程院院士、IEEE Fellow 陈杰教授
-- 与 IEEE Fellow 陈虹教授和张琳副教授紧密合作
-- 研究方向：
-  - 自动驾驶技术
-  - 面向下一代 E/E 架构的高性能智能车辆控制
-  - 生成式人工智能在高性能车辆中的应用
+- [同济大学](https://www.tongji.edu.cn/) [电子与信息工程学院](https://see.tongji.edu.cn/) 博士研究生 (直博生, 2025级)
+- 导师: **[陈杰 教授](https://www.tongji.edu.cn/info/1136/21221.htm)**（IEEE Fellow）  
+- 合作导师: [陈虹 教授](https://see.tongji.edu.cn/info/1376/10290.htm)（IEEE Fellow），[张琳 副教授](https://faculty.tongji.edu.cn/zhanglin123456/zh_CN/index.htm)
 
-<br>2025年6月，于江南大学物联网工程学院获得工学学士学位，并于江南大学至善学院结业，获得至善特别荣誉生称号，由时任江南大学校长、中国工程院院士陈卫教授拨穗。
+### 联系方式
 
-<img src="/images/JNU2025.jpg" class="floatpic">
+- 邮箱: [qyshen@tongji.edu.cn](mailto:qyshen@tongji.edu.cn)  
+- 微信: Quattroloigist_44  
+- 通信地址: 上海市嘉定区曹安公路4800号 同济大学嘉定校区 新能源汽车工程中心
 
-<br>我从小就对与汽车有关的一切感兴趣。我是 Formula One 车迷，支持 Lewis Hamilton 和 Mercedes-AMG 车队。让未来的汽车更加安全、智能和高性能是我博士阶段及职业生涯的使命。
+---
 
-<!-- <br>若您有任何我可以协助的事项，或者您愿意向我分享宝贵建议，我都非常欢迎与您交流与合作。您可以通过邮箱 **qy.shen@outlook.com** 与我联系，或通过微信 **LewisMission44** 添加我。 -->
+## 研究方向
+
+- 高性能车辆动力学与控制
+- 智能汽车底盘域控制
+- 智能网联汽车与自动驾驶
+
+---
+
+## 教育背景
+
+- **2021.09 – 2025.06**, 工学学士, [江南大学](https://www.jiangnan.edu.cn/) 物联网工程学院, 江苏 无锡  
+  - 导师: [王子赟 教授](https://iot.jiangnan.edu.cn/info/1141/3583.htm)
+
+- **2022.06 – 2025.06**, [至善学院](https://honorschool.jiangnan.edu.cn/) 学生
+  - 研究型创新培养项目, 选拔比例约 5%  
+  - 导师: [王艳 教授](https://iot.jiangnan.edu.cn/info/1141/3534.htm)
+
+- **2025.09 – 至今**, 博士研究生, [同济大学](https://www.tongji.edu.cn/) [电子与信息工程学院](https://see.tongji.edu.cn/), 上海  
+  - 导师: [陈杰 教授](https://www.tongji.edu.cn/info/1136/21221.htm)（中国工程院院士, IEEE Fellow）  
+  - 合作导师: [陈虹 教授](https://see.tongji.edu.cn/info/1376/10290.htm)（IEEE Fellow），[张琳 副教授](https://faculty.tongji.edu.cn/zhanglin123456/zh_CN/index.htm)
+
+---
+
+- 更多学术信息请见：[ORCID](https://orcid.org/0009-0008-0746-3135)
 
 <br>

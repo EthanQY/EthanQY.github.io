@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-Qianyi enjoys many hobbies, even if he doesn’t claim to be an expert in all of them. They ultimately fuel his research.
+Qianyi enjoys many hobbies, even if he doesn’t claim to be an expert in all of them.
 
 ## Motorsport
 
@@ -19,27 +19,29 @@ Qianyi enjoys many hobbies, even if he doesn’t claim to be an expert in all of
 Qianyi is a petrolhead and an enthusiastic Formula One fan.
 
 - Favourite racing driver: Sir Lewis Hamilton MBE #44
-  - 7xWDC in Formula One (2008, 2014, 2015, 2017, 2018, 2019, 2020)
-  - GOAT of Formula One, holding a joint record of 7 times World Drivers' Championships with Michael Schumacher
+  - 7 time Formula One World Drivers’ Champion (2008, 2014, 2015, 2017, 2018, 2019, 2020)
+  - Holds the joint record of 7 World Drivers’ Championships with Michael Schumacher
   - Records for most wins, pole positions, and podium finishes in Formula One history
-  <!-- - Winner for McLaren, Mercedes and Ferrari -->
-  - He is more than just a racing driver. He is dedicated to charity and runs the [Mission 44 Foundation](https://mission44.org/), focusing on racial equality and marginalized communities.
-- Favourite Team: [Mercedes-AMG PETRONAS Formula One Team](https://www.mercedesamgf1.com/) (Team principal: Toto Wolff)
-- Favourite Track: Circuit de Spa-Francorchamps, Stavelot, Belgium
+  - Starting the [Mission 44 Foundation](https://mission44.org/), supporting racial equality and marginalized communities.
+- Favourite team: [Mercedes-AMG PETRONAS Formula One Team](https://www.mercedesamgf1.com/) (Team principal: Toto Wolff)
+- Favourite circuit: Circuit de Spa-Francorchamps, Stavelot, Belgium
 - Related activities
   - Go-Karting
-  - Sim Racing
+  - Sim Racing (F1 25, iRacing, Assetto Corsa)
 
-<!-- ## Investments
+> He is fast on the track, but cautious on the road, maintaining a clean driving record over the past five years.
+> 
+> [Message from Dec 2025]: Big congrats to Lando Norris for his first World Drivers' Championship in 2025!
 
-Qianyi is very interested in investment and financial management. He primarily invests in the A-share market, U.S. stock ETFs, gold, and bonds. He focuses on risk control to achieve stable appreciation of his assets.
-- If you have any idea for making money, Qianyi would be very happy to talk to you. -->
+## Other Sports
+- Badminton (play but not expert)
+- Tennis (watch more than play)
+- Swimming
+- Gym workouts
 
-## Hitting the gym
-Qianyi is also working on maintaining a healthy weight, like many people.
+## Photography
 
-<!-- ## Taking photos & vlogs
-Qianyi is planning to buy a camera and a dji pocket3. Future works might be seen in douyin, bilibili or YouTube. -->
+Qianyi enjoys photography, but prefers lightweight and casual shooting. As a result, his iPhone is used far more often than his professional cameras, which usually stay in the drawer.
 
 ## My Cat
 
@@ -49,5 +51,3 @@ Tracy Hua (翠花) is the superstar of our family.
 <img src="/images/cuihua.jpg">
 </div>
 <br>
-
-

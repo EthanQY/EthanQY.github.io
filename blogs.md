@@ -6,7 +6,7 @@ title: Blogs
 
 > For readers' convenience, all the blogs below are published on my Zhihu page.
 > 
-> Last modified: 1st Oct, 2025
+> Last modified: December 14th, 2025
 
 ## Toolchain
 ### How to use LaTeX
@@ -45,10 +45,5 @@ title: Blogs
 1. [Brief Introduction to Kalman Filter & Matlab Sim](https://zhuanlan.zhihu.com/p/721667468)
 2. [Brief Introduction to Set-membership Estimation Theories]()
    
-### SLAM with modified codes
-
-coming soon ...
-
-### Diffusion Model
-
-I will update this subsection once my related works are published formally. My personal understanding of diffusion models and its applications on Auto industry will also be included.
+### On-board Learning Augmented Control for Intelligent Vehicles
+> This subsection summarizes my Ph.D. research progress and will be updated regularly.

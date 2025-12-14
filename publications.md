@@ -6,7 +6,8 @@ title: Publications
 ---
 
 ## Submitted papers
-Ph.D. works coming soon.
+
+Manuscript under review: Learning-Augmented Control for Intelligent Vehicles: A Unified Review and Perspective
 
 ## Published papers
 Ph.D. works coming soon.
@@ -21,6 +22,6 @@ Ph.D. works coming soon.
 
 ## Degree Thesis
 
-- Undergraduate: 基于多胞空间滤波的时滞系统状态估计及其应用研究, **Qianyi Shen** (Supervisor: [Prof. Ziyun Wang](https://iot.jiangnan.edu.cn/info/1141/3583.htm)). 
-  - Best Bachelor Thesis Award (top 1/200), Jiangnan University, 2025.
-  - Nominated as top 1 candidate of Best Bachelor Thesis Award, Jiangsu Province (result will be determined in Oct, 2025).
+- Bachelor’s Thesis: Zonotopic Based State Estimation Algorithms for Time-Delay Systems and Its Applications, **Qianyi Shen** (Supervisor: [Prof. Ziyun Wang](https://iot.jiangnan.edu.cn/info/1141/3583.htm)). 
+  - Best Bachelor’s Thesis Award (top 1/200), Jiangnan University, 2025.
+  - Nominated as a leading candidate for the Jiangsu Provincial Best Bachelor’s Thesis Award (results pending).
