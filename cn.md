@@ -12,7 +12,7 @@ title: 主页中文版
 
 - [同济大学](https://www.tongji.edu.cn/) [电子与信息工程学院](https://see.tongji.edu.cn/) 博士研究生 (直博2025级)
 - 导师: **[陈杰 教授](https://www.tongji.edu.cn/info/1136/21221.htm)**(中国工程院院士、IEEE Fellow)  
-- 合作导师: [陈虹 教授](https://see.tongji.edu.cn/info/1376/10290.htm)(IEEE Fellow), [张琳 副教授](https://faculty.tongji.edu.cn/zhanglin123456/zh_CN/index.htm)
+<!-- - 合作导师: [陈虹 教授](https://see.tongji.edu.cn/info/1376/10290.htm)(IEEE Fellow), [张琳 副教授](https://faculty.tongji.edu.cn/zhanglin123456/zh_CN/index.htm) -->
 
 ### 联系方式
 
@@ -41,7 +41,7 @@ title: 主页中文版
 
 - **2025.09 – 至今**, 博士研究生, [同济大学](https://www.tongji.edu.cn/) [电子与信息工程学院](https://see.tongji.edu.cn/) 控制科学与工程系, 上海  
   - 导师: [陈杰 教授](https://www.tongji.edu.cn/info/1136/21221.htm)（中国工程院院士、IEEE Fellow）  
-  - 合作导师: [陈虹 教授](https://see.tongji.edu.cn/info/1376/10290.htm)（IEEE Fellow），[张琳 副教授](https://faculty.tongji.edu.cn/zhanglin123456/zh_CN/index.htm)
+  <!-- - 合作导师: [陈虹 教授](https://see.tongji.edu.cn/info/1376/10290.htm)（IEEE Fellow），[张琳 副教授](https://faculty.tongji.edu.cn/zhanglin123456/zh_CN/index.htm) -->
 
 ---
 
