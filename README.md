@@ -1,4 +1,4 @@
-# ethanqy.github.io
+# Qianyi Shen's Personal Website
 
-This is the personal webpage of Qianyi Shen, inspired by https://github.com/GuangLun2000/GuangLun2000.github.io.
+This repository contains the source code for my personal website, which is built using the [Academic Pages](https://academicpages.github.io/) template. The website is hosted on GitHub Pages and can be accessed at [https://ethanqy.github.io/](https://ethanqy.github.io/).
 

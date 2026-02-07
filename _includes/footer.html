@@ -1,18 +1,22 @@
-<h6>
-  &copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.
-  Published with <a href="https://pages.github.com/" rel="nofollow">GitHub Pages</a>,
-  powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>,
-  based on the <a href="https://mademistakes.com/" rel="nofollow">Minimal Mistakes</a> theme.
-  Source code for this website can be found <a href="https://github.com/EthanQY/EthanQY.github.io" rel="nofollow">here</a>.
-</h6>
+{% include base_path %}
 
-<!-- Hitwebcounter START - 单独一行 居中 -->
-<div style="text-align: center; margin-top: 10px;">
-  <a href="https://www.hitwebcounter.com" target="_blank">
-    <img src="https://hitwebcounter.com/counter/counter.php?page=21039241&style=0001&nbdigits=5&type=page&initCount=0" 
-         title="Counter Widget" alt="Visit counter For Websites" border="0" />
-  </a>
+{% if site.author.github or site.author.bitbucket %}
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+    {% if site.author.github %}
+      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+    {% endif %}
+    {% if site.author.bitbucket %}
+      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    {% endif %}  </ul>
 </div>
-<!-- Hitwebcounter END -->
+{% endif %}
 
-<!-- Lastly modified by Ethan in 2025/07/03 -->
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
+  Site last updated {{ "now" | date: '%Y-%m-%d' }}
+</div>
+
