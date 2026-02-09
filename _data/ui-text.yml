@@ -10,6 +10,7 @@ en: &DEFAULT_EN
   ext_link_label             : "Direct Link"
   less_than                  : "less than"
   minute_read                : "minute read"
+  minute_read_plural         : "minutes read"
   share_on_label             : "Share on"
   meta_label                 :
   tags_label                 : "Tags:"

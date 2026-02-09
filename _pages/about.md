@@ -22,8 +22,8 @@ redirect_from:
 ## Research Interests
 
 - Vehicle Chassis Domain Control
+- Vehicle Dynamics and Motion Control
 - Autonomous Driving
-- Vehicle Dynamics and Control
 
 ## Biography
 

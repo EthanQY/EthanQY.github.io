@@ -1,3 +1,6 @@
+{% assign minute_read_singular = site.data.ui-text[site.locale].minute_read | default: "minute read" %}
+{% assign minute_read_plural = site.data.ui-text[site.locale].minute_read_plural | default: "minutes read" %}
+
 {% assign forced_minutes = nil %}
 {% if post and post.read_time_minutes %}
   {% assign forced_minutes = post.read_time_minutes %}
@@ -6,7 +9,12 @@
 {% endif %}
 
 {% if forced_minutes %}
-  {{ forced_minutes }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+  {% assign forced_value = forced_minutes | plus: 0 %}
+  {% if forced_value == 1 %}
+    {{ forced_value }} {{ minute_read_singular }}
+  {% else %}
+    {{ forced_value }} {{ minute_read_plural }}
+  {% endif %}
 {% else %}
   {% if post.read_time %}
     {% assign words = post.content | strip_html | number_of_words %}
@@ -16,11 +24,16 @@
 
   {% if site.words_per_minute %}
     {% if words < 180 %}
-      {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+      {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ minute_read_singular }}
     {% elsif words < 360 %}
-      1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+      1 {{ minute_read_singular }}
     {% else %}
-      {{ words | divided_by:site.words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+      {% assign calculated_minutes = words | divided_by:site.words_per_minute %}
+      {% if calculated_minutes == 1 %}
+        {{ calculated_minutes }} {{ minute_read_singular }}
+      {% else %}
+        {{ calculated_minutes }} {{ minute_read_plural }}
+      {% endif %}
     {% endif %}
   {% else %}
     {{ site.data.ui-text[site.locale].undefined_wpm | "Undefined parameter words_per_minute at _config.yml" }}

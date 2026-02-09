@@ -30,6 +30,12 @@ author:
 publication_category:
   manuscripts:
     title: 'Journal Articles'
+  conference_articles:
+    title: 'Conference Articles'
+  patents:
+    title: 'Patents'
+  dissertations:
+    title: 'Dissertations'
 
 # Site Settings
 teaser                   :
