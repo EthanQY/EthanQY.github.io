@@ -5,7 +5,7 @@ title                    : "Qianyi Shen"
 title_separator          : "-"
 name                     : &name "Qianyi Shen"
 description              : &description "Qianyi Shen's academic portfolio"
-url                      : https://ethanqy.github.io/
+url                      : https://ethanqy.github.io
 baseurl                  : ""
 repository               : "https://github.com/EthanQY/EthanQY.github.io"
 
