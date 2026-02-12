@@ -10,8 +10,8 @@ redirect_from:
 **Qianyi Shen (Ethan, 沈谦逸)**.
 
 - Ph.D. Student at the [College of Electronic and Information Engineering](https://see.tongji.edu.cn/) (CEIE), [Tongji University](https://www.tongji.edu.cn/)
-- Supervisor: **[Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) (IEEE Fellow)**
-- Collaborates with [Prof. Hong Chen](https://see.tongji.edu.cn/info/1376/10290.htm) (IEEE Fellow) and [Assoc. Prof. Lin Zhang](https://faculty.tongji.edu.cn/zhanglin123456/zh_CN/index.htm)
+  - Supervisor: **[Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) (IEEE Fellow)**
+  - Collaborates with [Prof. Hong Chen](https://see.tongji.edu.cn/info/1376/10290.htm) (IEEE Fellow) and [Assoc. Prof. Lin Zhang](https://faculty.tongji.edu.cn/zhanglin123456/zh_CN/index.htm)
 
 ### Contact Information  
 
