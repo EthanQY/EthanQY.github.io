@@ -21,7 +21,7 @@ Qianyi enjoys many hobbies, even if he doesn’t claim to be an expert in all of
 
 Qianyi is a petrolhead and an enthusiastic Formula One fan.
 
-- Favourite racing driver: Sir Lewis Hamilton #44
+- Favourite racing driver: Lewis Hamilton #44
   - 7 time Formula One World Drivers’ Champion (2008, 2014, 2015, 2017, 2018, 2019, 2020)
   - Holds the joint record of 7 World Drivers’ Championships with Michael Schumacher
   - Records for most wins, pole positions, and podium finishes in Formula One history
@@ -35,6 +35,7 @@ Qianyi is a petrolhead and an enthusiastic Formula One fan.
   - Sim Racing (F1 25, iRacing, Assetto Corsa)
 
 ## Other Sports
+
 - Badminton (play but not expert)
 - Tennis (watch more than play)
 - Swimming

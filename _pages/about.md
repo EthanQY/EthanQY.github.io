@@ -16,7 +16,7 @@ redirect_from:
 ### Contact Information  
 
 - Email: [qyshen@tongji.edu.cn](mailto:qyshen@tongji.edu.cn)
-- WeChat (China): Quattroloigist_44
+<!-- - WeChat: Quattroloigist_44 -->
 - Office: Institute of Intelligent Vehicles, Jiading Campus, Tongji University, Shanghai 201804, China
 
 ## Research Interests
@@ -36,4 +36,3 @@ redirect_from:
 - 2025.09-Present, Ph.D. student, [College of Electronic and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/), Shanghai, China.
   - Supervisor: [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) (IEEE Fellow)
   - Collaborates with [Prof. Hong Chen](https://see.tongji.edu.cn/info/1376/10290.htm) (IEEE Fellow) and [Assoc. Prof. Lin Zhang](https://faculty.tongji.edu.cn/zhanglin123456/zh_CN/index.htm)
-

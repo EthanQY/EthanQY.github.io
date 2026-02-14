@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 * 2021.09-2025.06, B.Eng., [School of IoT Engineering](https://iot.jiangnan.edu.cn/), [Jiangnan University](https://www.jiangnan.edu.cn/), Wuxi, China.
   * Supervisor: [Prof. Ziyun Wang](https://iot.jiangnan.edu.cn/info/1141/3583.htm)
 * 2022.06-2025.06, [Honors School](https://honorschool.jiangnan.edu.cn/) student
@@ -25,6 +26,7 @@ Education
   
 Skills
 ======
+
 * Proficient Chinese (native) and English communication skills
   * CET-6: 616
   * Paper writing and presentation skills
@@ -42,16 +44,20 @@ Skills
 
 Awards
 ======
-- July 2025, Best Bachelor’s Thesis Award (top 1/200), Jiangnan University.
-  - Nominated as a leading candidate for the Jiangsu Provincial Best Bachelor’s Thesis Award (results pending).
-- June 2025, “Zhi Shan” Special Honors Graduate, Honors School, Jiangnan University (awarded to 8 graduates out of 4,000).
+
+* July 2025, Best Bachelor’s Thesis Award (top 1/200), Jiangnan University.
+  * Nominated as a leading candidate for the Jiangsu Provincial Best Bachelor’s Thesis Award (results pending).
+* June 2025, “Zhi Shan” Special Honors Graduate, Honors School, Jiangnan University (awarded to 8 graduates out of 4,000).
 
 Scholarships
 ======
-- December 2022, China National Scholarship (the highest national scholarship for undergraduate students in China)
-- December 2022, First-Class Scholarship of Jiangnan University
-- May 2024, Infineon Technologies Scholarship
+
+
+* December 2022, China National Scholarship (the highest national scholarship for undergraduate students in China)
+* December 2022, First-Class Scholarship of Jiangnan University
+* May 2024, Infineon Technologies Scholarship
 
 Competitions
 ======
-- December 2022, Second Prize (National Level), China Undergraduate Mathematical Contest in Modeling ([CUMCM](https://www.mcm.edu.cn/)), with Mengyuan Xu and Jinhong You.
+
+* December 2022, Second Prize (National Level), China Undergraduate Mathematical Contest in Modeling ([CUMCM](https://www.mcm.edu.cn/)), with Mengyuan Xu and Jinhong You.
