@@ -16,13 +16,13 @@ redirect_from:
 ### Contact Information  
 
 - Email: [qyshen@tongji.edu.cn](mailto:qyshen@tongji.edu.cn)
-<!-- - WeChat: Quattroloigist_44 -->
 - Office: Institute of Intelligent Vehicles, Jiading Campus, Tongji University, Shanghai 201804, China
 
 ## Research Interests
 
-- Vehicle Chassis Domain Control
-- Vehicle Dynamics and Motion Control
+- Vehicle Chassis Control
+- Active Suspension Control
+- Vehicle Dynamics
 - Autonomous Driving
 
 ## Biography

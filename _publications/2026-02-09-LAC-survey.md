@@ -1,9 +1,9 @@
 ---
-title: "Learning based Control for Intelligent Vehicles: A Unified Review and Perspective"
+title: "Learning based Control for Intelligent Vehicle Motion Control: A Review and Perspective"
 collection: publications
 category: manuscripts
-permalink: /publication/survey-lac
-excerpt: 'A comprehensive and unified review of learning-based control methods for intelligent vehicles, covering the latest advancements in the field and discussing future research directions.'
+permalink: /publication/survey-lbc
+excerpt: 'A comprehensive and unified review of learning-based control methods for intelligent vehicle motion control, covering the latest advancements in the field and discussing future research directions.'
 date: 2026-02-09
 venue: 'IEEE Transactions on Intelligent Transportation Systems(T-ITS), under review'
 # slidesurl: 'https://ethanqy.github.io/files/slides1.pdf'
