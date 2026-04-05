@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Qianyi's personal website!"
+title: "沈谦逸 Qianyi Shen"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Qianyi Shen (Ethan, 沈谦逸)**.
+<!-- **Qianyi Shen (Ethan, 沈谦逸)**. -->
 
 - Ph.D. Student at the [College of Electronic and Information Engineering](https://see.tongji.edu.cn/) (CEIE), [Tongji University](https://www.tongji.edu.cn/)
   - Supervisor: **[Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) (IEEE Fellow)**
