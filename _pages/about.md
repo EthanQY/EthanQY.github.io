@@ -20,7 +20,7 @@ redirect_from:
 
 ## Research Interests
 
-- Vehicle Chassis Control
+- Integated Chassis Control
 - Active Suspension Control
 - Vehicle Dynamics
 - Autonomous Driving

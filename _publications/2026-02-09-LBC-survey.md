@@ -1,5 +1,5 @@
 ---
-title: "Learning based Control for Intelligent Vehicle Motion Control: A Review and Perspective"
+title: "Learning-based Control for Intelligent Vehicle Motion Control: A Review and Perspective"
 collection: publications
 category: manuscripts
 permalink: /publication/survey-lbc
@@ -14,4 +14,4 @@ venue: 'IEEE Transactions on Intelligent Transportation Systems(T-ITS), under re
 
 This survey provides a comprehensive review of learning-based control methods for intelligent vehicles, covering the latest advancements in the field. The paper systematically categorizes and analyzes various techniques, including model learning, policy learning, and constraint learning. The applications of these methods and future research directions are also discussed in detail.
 
-Related sources will be added after the paper is published, including slides (PDF), paper (PDF) and citation information.
+Related sources will be added after the paper is officially published, including slides (PDF), paper (PDF) and citation information.

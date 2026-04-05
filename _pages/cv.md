@@ -31,7 +31,7 @@ Skills
   * CET-6: 616
   * Paper writing and presentation skills
 * Vehicle Dynamics and Control
-  * Chassis Domain Control
+  * Integrated Chassis Control
   * Motion Control
   * Toolchain: **CarSim, Simulink, Python, ROS2**
 * Proficient in Control Theories and Applications

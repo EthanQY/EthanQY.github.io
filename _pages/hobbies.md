@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Qianyi enjoys many hobbies, even if he doesn’t claim to be an expert in all of them.
+<!-- Qianyi enjoys many hobbies, even if he doesn’t claim to be an expert in all of them. -->
 
 ## Motorsport
 

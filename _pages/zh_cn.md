@@ -17,8 +17,7 @@ redirect_from:
 
 ### 联系方式
 
-- 邮箱: [qyshen@tongji.edu.cn](mailto:qyshen@tongji.edu.cn)  
-<!-- - 微信: Quattroloigist_44 -->
+- 邮箱: [qyshen@tongji.edu.cn](mailto:qyshen@tongji.edu.cn)
 - 通信地址: 上海市嘉定区曹安公路4800号 同济大学嘉定校区 新能源汽车工程中心
 
 ---
