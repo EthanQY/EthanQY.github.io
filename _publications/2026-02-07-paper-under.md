@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/paper-undergraduate
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-06-30
-venue: 'Control and Decision, CCDC, Information Sciences and so on'
+venue: 'Control and Decision, Information Sciences, IEEE TII, IEEE TIM'
 # slidesurl: 'https://ethanqy.github.io/files/slides1.pdf'
 # paperurl: 'https://ethanqy.github.io/files/paper1.pdf'
 # bibtexurl: 'https://ethanqy.github.io/files/bibtex1.bib'
@@ -16,9 +16,10 @@ This link is for the paper published during my undergraduate. My research during
 Regular Papers
 ======
 
-- **沈谦逸**, 王子赟, 王艳. [基于 P 范数的线性时滞系统多胞空间滤波器设计[J]](https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgYfL6nt9Jey4H3SLv4s5J3d1wL_BaF7L608QRcagvON-rRtLZrMVN7STbp5BXWBOo7pLGMh2PESE0r41jFOGafmuXSSfMPOjNswGbuJvz6c3td8G9xT5W2L-cF37E3bsWE2KsnZkCdjWoDQBp42R2QZ4ldZXiTgpKWNjk5zSB6fcA==&uniplatform=NZKPT&language=CHS). 控制与决策, 2024, 39(12): 4209-4216.
-- **Shen Qianyi**, Wang Ziyun, Wang Yan, Ji Zhicheng. [Design of chaotic dual population genetic algorithm and its application on power battery grouping](https://ieeexplore.ieee.org/document/11091090/). Proceedings of 37th Chinese Control and Decision Conference (CCDC 2025), May 2025, Xiamen.
-- Wang Ziyun, Chen Yuqian, **Shen Qianyi**, Wang Yan, Park Ju H. [A novel auxiliary signal design algorithm for weak fault isolation based on zonotopic optimization](https://www.sciencedirect.com/science/article/pii/S0020025524011216). **Information Sciences**, 2024, 681: 121207.
+- **沈谦逸**, 王子赟, 王艳. 基于 P 范数的线性时滞系统多胞空间滤波器设计[J]. 控制与决策, 2024, 39(12): 4209-4216. [PDF](https://kns.cnki.net/kcms2/article/abstract?v=a4fp6zKrpgYfL6nt9Jey4H3SLv4s5J3d1wL_BaF7L608QRcagvON-rRtLZrMVN7STbp5BXWBOo7pLGMh2PESE0r41jFOGafmuXSSfMPOjNswGbuJvz6c3td8G9xT5W2L-cF37E3bsWE2KsnZkCdjWoDQBp42R2QZ4ldZXiTgpKWNjk5zSB6fcA==&uniplatform=NZKPT&language=CHS)
+- Ziyun Wang, Yu-Qian Chen, **Qianyi Shen**, Yan Wang, Ju H. Park, “A novel auxiliary signal design algorithm for weak fault isolation based on zonotopic optimization”, Information Sciences, volume 681, article 121207, 2024. [PDF](https://www.sciencedirect.com/science/article/pii/S0020025524011216)
+- Ziyun Wang, Jialin Yuan, Yan Wang, **Qianyi Shen**, Zhenhua Wang, “Adaptive Momentum Zonotopic Filter With Self-Evolving Noise Bounds for Linear Discrete Systems With Time Delay and Its Application”, IEEE Transactions on Instrumentation and Measurement, volume 75, pp.1-10, 2026. [PDF](https://ieeexplore.ieee.org/abstract/document/11471874)
+- Ziyun Wang, Liping Liao, **Qianyi Shen**, Yan Wang, Zhenhua Wang, “Design of a Novel Particle-Based Zonotopic Hybrid Filter and its Application”, IEEE Transactions on Industrial Informatics, pp.1-11, 2026. [PDF](https://ieeexplore.ieee.org/abstract/document/11417933)
 
 Patents
 ======

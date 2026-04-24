@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* 2021.09-2025.06, B.Eng., [School of IoT Engineering](https://iot.jiangnan.edu.cn/), [Jiangnan University](https://www.jiangnan.edu.cn/), Wuxi, China.
+* 2021.09-2025.06, B.Eng., [School of Automation and Intelligent Science](https://iot.jiangnan.edu.cn/) (School of IoT Engineering), [Jiangnan University](https://www.jiangnan.edu.cn/), Wuxi, China.
   * Supervisor: [Prof. Ziyun Wang](https://iot.jiangnan.edu.cn/info/1141/3583.htm)
 * 2022.06-2025.06, [Honors School](https://honorschool.jiangnan.edu.cn/) student
   * A prestigious research-oriented program admitting approximately the top 5% of undergraduate students
@@ -28,17 +28,17 @@ Skills
 ======
 
 * Proficient Chinese (native) and English communication skills
-  * CET-6: 616
+  * **CET-6: 616**
   * Paper writing and presentation skills
 * Vehicle Dynamics and Control
   * Integrated Chassis Control
-  * Motion Control
+  * Vehicle Motion Control
   * Toolchain: **CarSim, Simulink, Python, ROS2**
 * Proficient in Control Theories and Applications
   * Model Predictive Control
-  * State Estimation
+  * State Estimation Theories
   * Optimal Control
-  * Toolchain: **MATLAB, Python**
+  * Toolchain: **MATLAB, Python, Casadi**, ...
 * Machine Learning and Data Analysis
   * Toolchain: **PyTorch, Cuda, NVIDIA Jetson Orin/Thor, Ubuntu**
 

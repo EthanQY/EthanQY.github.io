@@ -14,7 +14,7 @@ redirect_from:
 ## Motorsport
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-  <img src="/images/w11.jpg" style="width: 32%; height: auto;">
+  <img src="/images/w12.jpg" style="width: 32%; height: auto;">
   <img src="/images/lh44.png" style="width: 32%; height: auto;">
   <img src="/images/mercedes-amg.png" style="width: 32%; height: auto;">
 </div>

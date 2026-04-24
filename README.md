@@ -45,8 +45,6 @@ Sometimes, it is necessary to pre-build the website locally before pushing chang
 
 ### Windows
 
-
-
 1. Install Ruby, recommended version `3.2.10`; select "MSYS2 and MINGW development toolchain" during installation.
 2. Execute `gem install bundler jekyll` in the terminal.
 3. Execute `bundle config set path vendor/bundle` in the repository root directory, then execute `bundle install`.
