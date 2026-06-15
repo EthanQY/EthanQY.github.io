@@ -24,7 +24,8 @@ Qianyi is a petrolhead and an enthusiastic Formula One fan.
 - Favourite racing driver: Lewis Hamilton #44
   - 7 time Formula One World Drivers’ Champion (2008, 2014, 2015, 2017, 2018, 2019, 2020)
   - Holds the joint record of 7 World Drivers’ Championships with Michael Schumacher
-  - Records for most wins, pole positions, and podium finishes in Formula One history
+  - Records for most wins (106 until June 2026), pole positions, and podium finishes in Formula One history, and still creating more records
+  - Grand Prix Winner with McLaren, Mercedes-AMG and Scuderia Ferrari
   - Starting the [Mission 44 Foundation](https://mission44.org/), supporting racial equality and marginalized communities.
 - Favourite team: [Mercedes-AMG PETRONAS Formula One Team](https://www.mercedesamgf1.com/)
   - 8 consecutive Constructors’ Championships (2014-2021)
